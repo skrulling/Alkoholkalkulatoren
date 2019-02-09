@@ -8,4 +8,4 @@ The product used in the calculations must contain alcohol if the user is to util
 ## Where can I get this app?
 You can either clone this repository and try to make things work, good luck.
 Or you can simply find it on [Google Play Store](https://play.google.com/store/apps/details?id=com.alkoholkalkulatoren), for free!
-The app is unfortunately only availible in Norwegian.
+The app is unfortunately only available in Norwegian.
